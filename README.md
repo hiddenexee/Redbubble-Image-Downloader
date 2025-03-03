@@ -4,7 +4,7 @@
 
 # Usage
 
-- Create image folder
+- create image folder
 - python main.py
 - enter shop url
 
